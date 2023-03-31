@@ -12436,7 +12436,8 @@
           "Subsidiary",
           "Franchise",
           "Franchisor",
-          "SingleOffice"
+          "SingleOffice",
+          "Other"
         ],
         "type": "string"
       },
@@ -12683,7 +12684,7 @@
           "city": {
             "type": "string"
           },
-          "postalCode": {
+          "postCode": {
             "type": "string" 
           },
           "province": {
